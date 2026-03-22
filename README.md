@@ -13,7 +13,7 @@ This game is made with:
 
 ## Implementation
 
-when the page is loaded 7 buttons are displayed
+when the page is loaded 7 buttons are displayed\
 when you press the image or the key corresponding to said image the sound of the instrument is played
 
 How this works:
