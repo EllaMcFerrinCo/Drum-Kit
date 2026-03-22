@@ -13,9 +13,6 @@ This game is made with:
 
 ## Implementation
 
-when the page is loaded 7 buttons are displayed\
-when you press the image or the key corresponding to said image the sound of the instrument is played
-
 How this works:
 - using DOM to select all the elements with the .drum class
 - adding the event listener click to those elements and calling the functions that make the sounds and cause the button animations
